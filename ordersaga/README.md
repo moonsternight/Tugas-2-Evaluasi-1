@@ -62,8 +62,7 @@ ordersaga/
 │   └── shipping/
 ├── go.mod
 ├── go.sum
-├── README.md
-└── PWL_TUGAS2_122140004.pdf
+└── README.md
 ```
 
 ---
