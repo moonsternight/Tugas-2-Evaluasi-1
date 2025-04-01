@@ -95,6 +95,6 @@ Penjelasan lengkap skenario, hasil output, dan tangkapan layar dapat dilihat di 
 
 ## 🙋 Identitas
 
-- 🧑 Nama: [Isikan namamu]
+- 🧑 Nama: Billy
 - 🆔 NIM: 122140004
 - 🏫 Mata Kuliah: Pemrograman Web Lanjut
